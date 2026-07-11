@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Ettore
 
-<!--
-**ettore-strapazzon/ettore-strapazzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools and apps that solve real problems with agentic AI.
+I ship working software fast by vibe coding with AI agents, starting from problems I actually have, at work and at home.
 
-Here are some ideas to get you started:
+Currently: open to remote roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ### What I build
+   ..Coming Soon..
+
+   ### How I work
+   Agentic, AI-assisted development: I direct AI agents to design, build, and iterate on real tools, then make sure they actually work.
+
+   ### Elsewhere
+   - LinkedIn: <https://www.linkedin.com/in/ettorestrapazzon/>
+   - CV: <https://drive.google.com/file/d/1gAcgic1YUQLWcewdACU6nx1EuelPVLky/view?usp=sharing>
