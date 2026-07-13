@@ -6,7 +6,8 @@ I ship working software fast by vibe coding with AI agents, starting from proble
 Currently: open to remote roles
 
    ### What I build
-   ..Coming Soon..
+   Multi CEX Manager — a desktop app to trade, schedule orders and export history across MEXC, Bybit and Kraker
+   ..More Coming Soon..
 
    ### How I work
    Agentic, AI-assisted development: I direct AI agents to design, build, and iterate on real tools, then make sure they actually work.
