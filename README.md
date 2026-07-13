@@ -7,6 +7,7 @@ Currently: open to remote roles
 
    ### What I build
    Multi CEX Manager — a desktop app to trade, schedule orders and export history across MEXC, Bybit and Kraker
+   
    ..More Coming Soon..
 
    ### How I work
