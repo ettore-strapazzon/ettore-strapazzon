@@ -6,9 +6,9 @@ I ship working software fast by vibe coding with AI agents, starting from proble
 Currently: open to remote roles
 
    ### What I build
-   Multi CEX Manager — a desktop app to trade, schedule orders and export history across MEXC, Bybit and Kraker
-   
-   ..More Coming Soon..
+   - **[Multi CEX Manager](https://github.com/ettore-strapazzon/multi-cex-manager)** — a desktop app to trade, schedule recurring orders, track balances and export full history across MEXC, Bybit and Kraken from one window. Python · ccxt · encrypted local key storage.
+
+   *More tools coming as I open-source them.*
 
    ### How I work
    Agentic, AI-assisted development: I direct AI agents to design, build, and iterate on real tools, then make sure they actually work.
