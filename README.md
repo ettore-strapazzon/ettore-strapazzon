@@ -7,6 +7,7 @@ Currently: open to remote roles
 
    ### What I build
    - **[Multi CEX Manager](https://github.com/ettore-strapazzon/multi-cex-manager)** — a desktop app to trade, schedule recurring orders, track balances and export full history across MEXC, Bybit and Kraken from one window. Python · ccxt · encrypted local key storage.
+   - **[Staketrack](https://github.com/ettore-strapazzon/staketrack)** — a web app to track stablecoin yield and APY across many DeFi platforms, reading each position's value live from the blockchain. [Live demo](https://defi-capital-tracker-production.up.railway.app). Python · Flask · SQLite · web3.py.
 
    *More tools coming as I open-source them.*
 
